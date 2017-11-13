@@ -12,6 +12,9 @@
 8. [pva-faster-rcnn](https://github.com/sanghoon/pva-faster-rcnn):PVANet: Lightweight Deep Neural Networks for Real-time Object Detection(NIPS2016).[[arxiv](https://arxiv.org/abs/1611.08588)]
 9. [ohem](https://github.com/abhi2610/ohem):Training Region-based Object Detectors with Online Hard Example Mining.(fast-rcnn + ohem). [[arxiv](https://arxiv.org/abs/1604.03540)]
 10. [py-R-FCN](https://github.com/YuwenXiong/py-R-FCN):R-FCN with joint training and python support. [[arxiv](https://arxiv.org/abs/1605.06409)]
+11. [KITTI-detection-OHEM](https://github.com/manutdzou/KITTI-detection-OHEM):faster rcnn Online hard example mining for KITTI.
+12. [py-faster-rcnn-OHEM](https://github.com/manutdzou/py-faster-rcnn-OHEM):faster rcnn Online hard example mining.
+13. [Faster-RCNN](https://github.com/JayMarx/Faster-RCNN):Faster-RCNN KITTI数据集上的车辆行人检测.
 
 ----
 
@@ -24,3 +27,4 @@
 1. [TFFRCNN](https://github.com/CharlesShang/TFFRCNN):Faster RCNN built on tensorflow.
 2. [Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF):Faster-RCNN in Tensorflow.
 3. [tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn):fast-rcnn in tensorflow.
+4. [FPN](https://github.com/xmyqsh/FPN):Feature Pyramid Network.
