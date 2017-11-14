@@ -15,6 +15,7 @@
 11. [KITTI-detection-OHEM](https://github.com/manutdzou/KITTI-detection-OHEM):faster rcnn Online hard example mining for KITTI.
 12. [py-faster-rcnn-OHEM](https://github.com/manutdzou/py-faster-rcnn-OHEM):faster rcnn Online hard example mining.
 13. [Faster-RCNN](https://github.com/JayMarx/Faster-RCNN):Faster-RCNN KITTI数据集上的车辆行人检测.
+14. [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks):Deep Residual Learning for Image Recognition.
 
 ----
 
