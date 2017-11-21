@@ -2,6 +2,9 @@
 
 ## on the way
 - [ ] Detecting Semantic Parts on Partially Occluded Objects
+- [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector
+- [ ] MegDet: A Large Mini-Batch Object Detector: A Large Mini-Batch Object Detector
+- [ ] Single-Shot Refinement Neural Network for Object Detection
 
 ## object detection
 - [ ] Chained Cascade Network for Object Detection (iccv2017)
