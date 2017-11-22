@@ -6,6 +6,7 @@
 - [ ] MegDet: A Large Mini-Batch Object Detector: A Large Mini-Batch Object Detector
 - [ ] Single-Shot Refinement Neural Network for Object Detection
 - [ ] Large kernel matters–improve semantic segmentation by global convolu- tional network.
+- [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
 
 ## object detection
 - [ ] Chained Cascade Network for Object Detection (iccv2017)
