@@ -22,6 +22,7 @@
 18. [faster-rcnn-resnet](https://github.com/Eniac-Xie/faster-rcnn-resnet):ResNet Implementation for Faster-rcnn.
 19. [adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn):A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.(CVPR2017)[[arXiv](https://arxiv.org/abs/1704.03414)]
 20. [caffe-rfcn](https://github.com/daijifeng001/caffe-rfcn):Caffe branch for R-FCN.
+21. [ccnn](https://github.com/wk910930/ccnn):Learning Chained Deep Features and Classifiers for Cascade in Object Detection.(iccv2017)
 
 ----
 
