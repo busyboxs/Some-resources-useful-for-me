@@ -2,9 +2,10 @@
 
 ## on the way
 - [ ] Detecting Semantic Parts on Partially Occluded Objects
-- [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector
+- [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
 - [ ] MegDet: A Large Mini-Batch Object Detector: A Large Mini-Batch Object Detector
 - [ ] Single-Shot Refinement Neural Network for Object Detection
+- [ ] Large kernel matters–improve semantic segmentation by global convolu- tional network.
 
 ## object detection
 - [ ] Chained Cascade Network for Object Detection (iccv2017)
@@ -39,6 +40,8 @@
 - [x] Deep Neural Networks for Object Detection
 - [ ] Object detection from video tubelets with convolutional neural networks
 - [ ] T-CNN: tube- lets with convolutional neural networks for object detection from videos
+- [ ] Receptive Field Block Net for Accurate and Fast Object Detection
+- [ ] Repulsion Loss: Detecting Pedestrians in a Crowd
 
 ----
 
