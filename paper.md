@@ -9,15 +9,15 @@
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
 
 ## object detection
-- [ ] Chained Cascade Network for Object Detection (iccv2017)
-- [ ] CoupleNet: Coupling Global Structure with Local Parts for Object Detection (iccv2017)
+- [x] Chained Cascade Network for Object Detection (iccv2017)
+- [x] CoupleNet: Coupling Global Structure with Local Parts for Object Detection (iccv2017)
 - [ ] Joint Learning of Object and Action Detectors (iccv2017)
 - [ ] Recurrent Scale Approximation for Object Detection in CNN (iccv2017)
 - [ ] S3FD: Single Shot Scale-Invariant Face Detector (iccv2017)
 - [ ] VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (iccv2017)
 - [ ] Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
 - [x] Beyond Skip Connections: Top-Down Modulation for Object Detection
-- [ ] Cascade Region Proposal and Global Context for Deep Object Detection
+- [x] Cascade Region Proposal and Global Context for Deep Object Detection
 - [ ] Deformable Part-based Fully Convolutional Network for Object Detection
 - [ ] Dynamic Zoom-in Network for Fast Object Detection in Large Images
 - [x] Enhancement of SSD by concatenating feature maps for object detection
