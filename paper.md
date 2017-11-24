@@ -2,17 +2,19 @@
 
 ## on the way
 - [ ] Detecting Semantic Parts on Partially Occluded Objects
-- [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
 - [ ] MegDet: A Large Mini-Batch Object Detector: A Large Mini-Batch Object Detector
 - [ ] Single-Shot Refinement Neural Network for Object Detection
 - [ ] Large kernel matters–improve semantic segmentation by global convolu- tional network.
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
+- [ ] An Analysis of Scale Invariance in Object Detection – SNIP
+- [ ] Non-local Neural Networks
 
 ## object detection
+- [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
 - [x] Chained Cascade Network for Object Detection (iccv2017)
 - [x] CoupleNet: Coupling Global Structure with Local Parts for Object Detection (iccv2017)
 - [ ] Joint Learning of Object and Action Detectors (iccv2017)
-- [ ] Recurrent Scale Approximation for Object Detection in CNN (iccv2017)
+- [ ] Recurrent Scale Approximation for Object Detection in CNN (iccv2017)[[github](https://github.com/sciencefans/RSA-for-object-detection)]
 - [ ] S3FD: Single Shot Scale-Invariant Face Detector (iccv2017)
 - [ ] VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (iccv2017)
 - [ ] Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
