@@ -41,10 +41,11 @@
 4. [tf-Faster-RCNN](https://github.com/kevinjliang/tf-Faster-RCNN):TensorFlow implementation of Faster R-CNN.
 5. [tensorflow-fast-rcnn](https://github.com/zplizzi/tensorflow-fast-rcnn):fast-rcnn in tensorflow.
 6. [FPN](https://github.com/xmyqsh/FPN):Feature Pyramid Network.
-7. [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg):A Kitti Road Segmentation model implemented in tensorflow.
-8. [KittiBox](https://github.com/MarvinTeichmann/KittiBox):A car detection model implemented in Tensorflow.
-9. [2D_detection](https://github.com/fregu856/2D_detection):TensorFlow implementation of SqueezeDet, trained on the KITTI dataset.
-10. [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow):RFCN implementation in TensorFlow.
+7. [FastFPN](https://github.com/wuzheng-sjtu/FastFPN):Tensorflow implementation for "Feature Pyramid Networks for Object Detection".
+8. [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg):A Kitti Road Segmentation model implemented in tensorflow.
+9. [KittiBox](https://github.com/MarvinTeichmann/KittiBox):A car detection model implemented in Tensorflow.
+10. [2D_detection](https://github.com/fregu856/2D_detection):TensorFlow implementation of SqueezeDet, trained on the KITTI dataset.
+11. [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow):RFCN implementation in TensorFlow.
 
 ----
 
