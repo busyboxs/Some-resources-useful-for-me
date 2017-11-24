@@ -31,7 +31,8 @@
 - [ ] Mask RCNN
 - [ ] On the Utility of Context (or the Lack Thereof) for Object Detection
 - [x] PVANet: Lightweight Deep Neural Networks for Real-time Object Detection
-- [x] RON: Reverse Connection with Objectness Prior Networks for Object Detection
+- [x] RON: Reverse Connection with Objectness Prior Networks for Object Detection.[[github](https://github.com/taokong/RON)]
+- [ ] HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.
 - [ ] Towards End-to-End Car License Plates Detection and Recognition with Deep Neural Networks
 - [x] Training Region-based Object Detectors with Online Hard Example Mining
 - [x] You Only Look Once: Unified, Real-Time Object Detection
