@@ -4,10 +4,11 @@
 - [ ] Detecting Semantic Parts on Partially Occluded Objects
 - [ ] MegDet: A Large Mini-Batch Object Detector: A Large Mini-Batch Object Detector
 - [ ] Single-Shot Refinement Neural Network for Object Detection
-- [ ] Large kernel matters–improve semantic segmentation by global convolu- tional network.
+- [ ] Large kernel matters–improve semantic segmentation by global convolutional network.
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
-- [ ] An Analysis of Scale Invariance in Object Detection – SNIP
+- [x] An Analysis of Scale Invariance in Object Detection – SNIP
 - [ ] Non-local Neural Networks
+- [ ] Feature Selective Networks for Object Detection
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
@@ -100,5 +101,6 @@
 - [x] What is an object ?
 - [ ] Stacked hourglass networks for human pose estimation
 - [ ] Deep learning for detecting multiple space-time action tubes in videos
+- [ ] DeepPainter: Painter Classification Using Deep Convolutional Autoencoders
 
 
