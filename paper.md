@@ -8,7 +8,8 @@
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
 - [x] An Analysis of Scale Invariance in Object Detection – SNIP
 - [ ] Non-local Neural Networks
-- [ ] Feature Selective Networks for Object Detection
+- [x] Feature Selective Networks for Object Detection
+- [ ] Improving Object Detection With One Line of Code
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
