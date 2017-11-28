@@ -10,6 +10,7 @@
 - [ ] Non-local Neural Networks
 - [x] Feature Selective Networks for Object Detection
 - [ ] Improving Object Detection With One Line of Code
+- [ ] Finding tiny faces
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
@@ -19,7 +20,7 @@
 - [ ] Recurrent Scale Approximation for Object Detection in CNN (iccv2017)[[github](https://github.com/sciencefans/RSA-for-object-detection)]
 - [ ] S3FD: Single Shot Scale-Invariant Face Detector (iccv2017)
 - [ ] VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (iccv2017)
-- [ ] Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
+- [x] Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
 - [x] Beyond Skip Connections: Top-Down Modulation for Object Detection
 - [x] Cascade Region Proposal and Global Context for Deep Object Detection
 - [ ] Deformable Part-based Fully Convolutional Network for Object Detection
