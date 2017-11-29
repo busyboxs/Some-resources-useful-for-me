@@ -10,7 +10,10 @@
 - [ ] Non-local Neural Networks
 - [x] Feature Selective Networks for Object Detection
 - [ ] Improving Object Detection With One Line of Code
-- [ ] Finding tiny faces
+- [x] Finding tiny faces
+- [x] SSH: Single Stage Headless Face Detector
+- [ ] CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
+- [ ] A MultiPath Network for Object Detection
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
