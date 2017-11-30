@@ -32,6 +32,7 @@
 
 * [FPN-mxnet](https://github.com/unsky/FPN-mxnet) | Feature Pyramid Networks for Object Detection on mxnet.
 * [mx-rcnn](https://github.com/precedenceguo/mx-rcnn) | Faster R-CNN, an MXNet implementation with distributed implementation and data parallelization.
+* [mx-rfcn](https://github.com/giorking/mx-rfcn) | MXNet port of R-FCN.
 * [road_obj_detect](https://github.com/dhzhd1/road_obj_detect) | Road Object Detection under RFCN.
 
 ----
