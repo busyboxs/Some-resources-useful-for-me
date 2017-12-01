@@ -6,15 +6,14 @@
 - [ ] Single-Shot Refinement Neural Network for Object Detection
 - [ ] Large kernel matters–improve semantic segmentation by global convolutional network.
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
-- [x] An Analysis of Scale Invariance in Object Detection – SNIP
 - [ ] Non-local Neural Networks
-- [x] Feature Selective Networks for Object Detection
 - [ ] Improving Object Detection With One Line of Code
-- [x] Finding tiny faces
-- [x] SSH: Single Stage Headless Face Detector
 - [ ] CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
 - [ ] A MultiPath Network for Object Detection
 - [ ] Rethinking the Inception Architecture for Computer Vision
+- [ ] Towards High Performance Video Object Detection（MSRA）
+- [ ] Relation Networks for Object Detection（MSRA）
+
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
@@ -53,6 +52,10 @@
 - [ ] T-CNN: tube- lets with convolutional neural networks for object detection from videos
 - [ ] Receptive Field Block Net for Accurate and Fast Object Detection
 - [ ] Repulsion Loss: Detecting Pedestrians in a Crowd
+- [x] Finding tiny faces
+- [x] SSH: Single Stage Headless Face Detector
+- [x] Feature Selective Networks for Object Detection
+- [x] An Analysis of Scale Invariance in Object Detection – SNIP
 
 ----
 
