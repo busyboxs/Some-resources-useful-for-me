@@ -14,6 +14,7 @@
 - [x] SSH: Single Stage Headless Face Detector
 - [ ] CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
 - [ ] A MultiPath Network for Object Detection
+- [ ] Rethinking the Inception Architecture for Computer Vision
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
