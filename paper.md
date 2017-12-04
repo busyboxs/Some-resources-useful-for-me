@@ -13,6 +13,10 @@
 - [ ] Rethinking the Inception Architecture for Computer Vision
 - [ ] Towards High Performance Video Object Detection（MSRA）
 - [ ] Relation Networks for Object Detection（MSRA）
+- [ ] Single-Shot Object Detection with Enriched Semantics
+- [ ] Rank of Experts: Detection Network Ensemble
+- [ ] Multi-Channel CNN-based Object Detection for Enhanced Situation Awareness
+
 
 
 ## object detection
