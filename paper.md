@@ -13,14 +13,18 @@
 - [ ] Rethinking the Inception Architecture for Computer Vision
 - [ ] Towards High Performance Video Object Detection（MSRA）
 - [ ] Relation Networks for Object Detection（MSRA）
-- [ ] Single-Shot Object Detection with Enriched Semantics
+- [x] Single-Shot Object Detection with Enriched Semantics
 - [ ] Rank of Experts: Detection Network Ensemble
 - [ ] Multi-Channel CNN-based Object Detection for Enhanced Situation Awareness
-- [ ] FSSD: Feature Fusion Single Shot Multibox Detector
+- [x] FSSD: Feature Fusion Single Shot Multibox Detector
 - [ ] Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids
 - [ ] Cascade R-CNN: Delving into High Quality Object Detection
 - [ ] Feature Agglomeration Networks for Single Stage Face Detection
 - [ ] R-CNN for Small Object Detection
+- [ ] R-FCN-3000 at 30fps: Decoupling Detection and Classification
+- [ ] Context Augmentation for Convolutional Neural Networks
+- [ ] Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars
+
 
 
 ## object detection
