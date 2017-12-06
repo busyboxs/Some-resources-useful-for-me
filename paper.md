@@ -8,15 +8,18 @@
 - [ ] S-OHEM: Stratified Online Hard Example Mining for Object Detection
 - [ ] Non-local Neural Networks
 - [ ] Improving Object Detection With One Line of Code
-- [ ] CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
-- [ ] A MultiPath Network for Object Detection
+- [x] CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
+- [x] A MultiPath Network for Object Detection
 - [ ] Rethinking the Inception Architecture for Computer Vision
 - [ ] Towards High Performance Video Object Detection（MSRA）
 - [ ] Relation Networks for Object Detection（MSRA）
 - [ ] Single-Shot Object Detection with Enriched Semantics
 - [ ] Rank of Experts: Detection Network Ensemble
 - [ ] Multi-Channel CNN-based Object Detection for Enhanced Situation Awareness
-
+- [ ] FSSD: Feature Fusion Single Shot Multibox Detector
+- [ ] Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids
+- [ ] Cascade R-CNN: Delving into High Quality Object Detection
+- [ ] Feature Agglomeration Networks for Single Stage Face Detection
 
 
 ## object detection
