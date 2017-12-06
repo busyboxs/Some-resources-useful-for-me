@@ -20,6 +20,7 @@
 - [ ] Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids
 - [ ] Cascade R-CNN: Delving into High Quality Object Detection
 - [ ] Feature Agglomeration Networks for Single Stage Face Detection
+- [ ] R-CNN for Small Object Detection
 
 
 ## object detection
