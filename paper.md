@@ -24,6 +24,7 @@
 - [ ] R-FCN-3000 at 30fps: Decoupling Detection and Classification
 - [ ] Context Augmentation for Convolutional Neural Networks
 - [ ] Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars
+- [ ] Deep Regionlets for Object Detection
 
 
 
