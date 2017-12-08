@@ -65,3 +65,4 @@
 
 ## others
 * [kitti](https://github.com/bostondiditeam/kitti) | Boston Team for the Udacity/Didi Challenge.
+* [eval_kitti](https://github.com/cguindel/eval_kitti) | Tools to evaluate object detection results using the KITTI dataset.
