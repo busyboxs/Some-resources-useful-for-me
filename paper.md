@@ -25,7 +25,8 @@
 - [ ] Context Augmentation for Convolutional Neural Networks
 - [ ] Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars
 - [ ] Deep Regionlets for Object Detection
-
+- [ ] Class Rectification Hard Mining for Imbalanced Deep Learning
+- [ ] Weaving Multi-scale Context for Single Shot Detector
 
 
 ## object detection
