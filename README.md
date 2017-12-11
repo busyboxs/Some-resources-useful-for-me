@@ -26,6 +26,8 @@
 * [ccnn](https://github.com/wk910930/ccnn) | Learning Chained Deep Features and Classifiers for Cascade in Object Detection.(iccv2017)
 * [CoupleNet](https://github.com/tshizys/CoupleNet) | CoupleNet: Coupling Global Structure with Local Parts for Object Detection.(iccv2017)
 * [SSH](https://github.com/mahyarnajibi/SSH) | SSH: Single Stage Headless Face Detector
+* [soft-nms](https://github.com/bharatsingh430/soft-nms) | Soft-NMS
+
 ----
 
 ## based on mxnet
