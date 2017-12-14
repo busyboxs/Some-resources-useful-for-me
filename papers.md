@@ -29,7 +29,8 @@
 - [ ] Weaving Multi-scale Context for Single Shot Detector
 - [ ] FHEDN: A based on context modeling Feature Hierarchy Encoder-Decoder Network for face detection
 - [ ] Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2
-
+- [ ] Object Classification using Ensemble of Local and Deep Features
+- [ ] The Effectiveness of Data Augmentation in Image Classification using Deep Learning
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
