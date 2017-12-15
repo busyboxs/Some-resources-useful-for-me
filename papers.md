@@ -34,6 +34,12 @@
 - [ ] Object detection via a multi-region & semantic segmentation-aware CNN model
 - [ ] Multi-Scale Context Aggregation by Dilated Convolutions
 - [ ] Crafting GBD-Net for Object Detection
+- [ ] Object Detection via Aspect Ratio and Context Aware Region-based Convolutional Networks
+- [ ] Attentive Contexts for Object Detection
+- [ ] Contextual Object Detection with a Few Relevant Neighbors
+- [ ] Optimizing Region Selection for Weakly Supervised Object Detection
+- [ ] Spatial Memory for Context Reasoning in Object Detection
+- [ ] Objects as context for detecting their semantic parts
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
