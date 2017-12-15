@@ -27,6 +27,7 @@
 * [CoupleNet](https://github.com/tshizys/CoupleNet) | CoupleNet: Coupling Global Structure with Local Parts for Object Detection.(iccv2017)
 * [SSH](https://github.com/mahyarnajibi/SSH) | SSH: Single Stage Headless Face Detector
 * [soft-nms](https://github.com/bharatsingh430/soft-nms) | Soft-NMS
+* [mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection) | Object detection via a multi-region & semantic segmentation-aware CNN model
 
 ----
 
