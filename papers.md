@@ -31,6 +31,9 @@
 - [ ] Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2
 - [ ] Object Classification using Ensemble of Local and Deep Features
 - [ ] The Effectiveness of Data Augmentation in Image Classification using Deep Learning
+- [ ] Object detection via a multi-region & semantic segmentation-aware CNN model
+- [ ] Multi-Scale Context Aggregation by Dilated Convolutions
+- [ ] Crafting GBD-Net for Object Detection
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
