@@ -24,3 +24,12 @@
 1. A MultiPath Network for Object Detection.[[arXiv](https://arxiv.org/abs/1604.02135)]
 2. Crafting GBD-Net for Object Detection.[[arXiv](https://arxiv.org/abs/1610.02579)]
 3. Object detection via a multi-region & semantic segmentation-aware CNN model.[[arXiv](https://arxiv.org/abs/1505.01749)]
+
+
+## The role of context has been well exploited in recognition and detection
+
+1. Discriminative models for multi-class object layout.(2011)
+2. Integrating context and oc- clusion for car detection by hierarchical and-or model.(2014 ECCV)
+3. Detection evolution with multi-order contextual co-occurrence.(2013 CVPR)
+4. Context-aware CNNs for person head detection. (2015 ICCV)
+5. A multi-level contextual model for person recognition in photo albums.(2016 CVPR)
