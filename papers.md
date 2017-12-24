@@ -40,6 +40,7 @@
 - [ ] Optimizing Region Selection for Weakly Supervised Object Detection
 - [ ] Spatial Memory for Context Reasoning in Object Detection
 - [ ] Objects as context for detecting their semantic parts
+- [ ] DSOD: Learning Deeply Supervised Object Detectors from Scratch
 
 ## object detection
 - [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector
