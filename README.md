@@ -2,6 +2,12 @@
 
 ----
 
+## based on C++
+
+* [rrc_detection](https://github.com/xiaohaoChen/rrc_detection) | Accurate Single Stage Detector Using Recurrent Rolling Convolution.
+
+----
+
 ## based on caffe
 
 * [FPN-caffe](https://github.com/unsky/FPN-caffe) | Feature Pyramid Networks for Object Detection on caffe. 
