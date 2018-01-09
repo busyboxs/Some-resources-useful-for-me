@@ -72,6 +72,7 @@
 ## based on matlib
 
 * [tiny](https://github.com/peiyunh/tiny) | Tiny Face Detector, CVPR 2017.
+* [CRAFT](https://github.com/byangderek/CRAFT) | Codes for CVPR2016 paper "CRAFT Objects from Images".
 ----
 
 ## others
