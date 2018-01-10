@@ -34,6 +34,8 @@
 * [SSH](https://github.com/mahyarnajibi/SSH) | SSH: Single Stage Headless Face Detector
 * [soft-nms](https://github.com/bharatsingh430/soft-nms) | Soft-NMS
 * [mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection) | Object detection via a multi-region & semantic segmentation-aware CNN model
+* [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) | Cascade R-CNN: Delving into High Quality Object Detection.
+* [mscnn](https://github.com/zhaoweicai/mscnn) | A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection.
 
 ----
 
