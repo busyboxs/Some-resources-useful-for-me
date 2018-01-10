@@ -1,5 +1,7 @@
 # Some-resources-useful-for-me
 
+:white_check_mark: :x:
+
 ----
 
 ## based on C++
