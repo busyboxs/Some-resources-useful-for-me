@@ -130,36 +130,66 @@ Soft-NMS有个$σ$参数，传统的NMS具有$IOU$阈值参数$N_{t}$。 我们�
 
 ## References
 [1] J. Canny. A computational approach to edge detection. IEEE Transactions on pattern analysis and machine intelligence, (6):679–698, 1986.
+
 [2] R. T. Collins, A. J. Lipton, T. Kanade, H. Fujiyoshi, D. Duggins, Y. Tsin, D. Tolliver, N. Enomoto, O. Hasegawa, P. Burt, et al. A system for video surveillance and monitoring. 2000.
+
 [3] J. Dai, H. Qi, Y. Xiong, Y. Li, G. Zhang, H. Hu, and Y. Wei. Deformable convolutional networks. arXiv preprint arXiv:1703.06211, 2017. 
+
 [4] N. Dalal and B. Triggs. Histograms of oriented gradients for human detection. In Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on, volume 1, pages 886–893. IEEE, 2005. 
+
 [5] C. Desai, D. Ramanan, and C. C. Fowlkes. Discriminative models for multi-class object layout. International journal
 of computer vision, 95(1):1–12, 2011. 
+
 [6] P. Dollar, C. Wojek, B. Schiele, and P. Perona. Pedestrian detection: A benchmark. In Computer Vision and Pattern
 Recognition, 2009. CVPR 2009. IEEE Conference on, pages 304–311. IEEE, 2009. 
+
 [7] M. Everingham, L. Van Gool, C. K. Williams, J. Winn, and A. Zisserman. The pascal visual object classes (voc) chal-
 lenge. International journal of computer vision, 88(2):303–338, 2010. 
+
 [8] P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained partbased models. IEEE transactions on pattern analysis and machine intelligence, 32(9):1627–1645, 2010. 
+
 [9] A. Geiger, P. Lenz, C. Stiller, and R. Urtasun. Vision meets robotics: The kitti dataset. The International Journal of Robotics Research, 32(11):1231–1237, 2013. 1
+
 [10] R. Girshick, J. Donahue, T. Darrell, and J. Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 580–587, 2014. 2
+
 [11] I. Haritaoglu, D. Harwood, and L. S. Davis. W/sup 4:real-time surveillance of people and their activities. IEEE Transactions on pattern analysis and machine intelligence, 22(8):809–830, 2000. 1
+
 [12] C. Harris and M. Stephens. A combined corner and edge detector. In Alvey vision conference, volume 15, pages 10–5244. Citeseer, 1988. 2
+
 [13] K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages770–778, 2016. 5
+
 [14] Y. Jia, E. Shelhamer, J. Donahue, S. Karayev, J. Long, R. Girshick, S. Guadarrama, and T. Darrell. Caffe: Convolutional architecture for fast feature embedding. In Proceedings of the 22nd ACM international conference on Multimedia, pages 675–678. ACM, 2014. 5
+
 [15] D. Lee, G. Cha, M.-H. Yang, and S. Oh. Individualness and determinantal point processes for pedestrian detection. In European Conference on Computer Vision, pages 330–346. Springer, 2016. 3
+
 [16] Y. Li, K. He, J. Sun, et al. R-fcn: Object detection via regionbased fully convolutional networks. In Advances in Neural Information Processing Systems, pages 379–387, 2016. 2, 5
+
 [17] T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollar, and C. L. Zitnick. Microsoft coco: Common objects in context. In European Conference on Computer Vision, pages 740–755. Springer, 2014. 4
+
 [18] W. Liu, D. Anguelov, D. Erhan, C. Szegedy, S. Reed, C.-Y. Fu, and A. C. Berg. Ssd: Single shot multibox detector. In European Conference on Computer Vision, pages 21–37. Springer, 2016. 5
+
 [19] D. G. Lowe. Distinctive image features from scale-invariant keypoints. International journal of computer vision, 60(2):91–110, 2004. 2
+
 [20] K. Mikolajczyk and C. Schmid. Scale & affine invariant interest point detectors. International journal of computer vision, 60(1):63–86, 2004. 2
+
 [21] D. Mrowca, M. Rohrbach, J. Hoffman, R. Hu, K. Saenko, and T. Darrell. Spatial semantic regularisation for large scale object detection. In Proceedings of the IEEE international conference on computer vision, pages 2003–2011, 2015. 2
+
 [22] J. Philbin, O. Chum, M. Isard, J. Sivic, and A. Zisserman. Object retrieval with large vocabularies and fast spatial matching. In Computer Vision and Pattern Recognition, 2007. CVPR’07. IEEE Conference on, pages 1–8. IEEE, 2007. 1
+
 [23] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi. You only look once: Unified, real-time object detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 779–788, 2016. 5
+
 [24] S. Ren, K. He, R. Girshick, and J. Sun. Faster r-cnn: Towards real-time object detection with region proposal networks. In Advances in neural information processing systems, pages 91–99, 2015. 2, 3, 5
+
 [25] A. Rosenfeld and M. Thurston. Edge and curve detection for visual scene analysis. IEEE Transactions on computers, 100(5):562–569, 1971. 2
+
 [26] R. Rothe, M. Guillaumin, and L. Van Gool. Non-maximum suppression for object detection by passing messages between windows. In Asian Conference on Computer Vision, pages 290–306. Springer, 2014. 2
+
 [27] S. Rujikietgumjorn and R. T. Collins. Optimized pedestrian detection for multiple and occluded people. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3690–3697, 2013. 3
+
 [28] J. Sivic, A. Zisserman, et al. Video google: A text retrieval approach to object matching in videos. In iccv, volume 2, pages 1470–1477, 2003. 1
+
 [29] P. Viola and M. Jones. Rapid object detection using a boosted cascade of simple features. In Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on, volume 1, pages I–I.IEEE, 2001. 2
+
 [30] J. Zhang, S. Sclaroff, Z. Lin, X. Shen, B. Price, and R. Mech. Unconstrained salient object detection via proposal subset optimization. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 5733–5742, 2016. 3
+
 [31] C. L. Zitnick and P. Dollar. Edge boxes: Locating object proposals from edges. In European Conference on Computer Vision, pages 391–405. Springer, 2014. 2
