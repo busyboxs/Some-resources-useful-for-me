@@ -96,6 +96,7 @@ void quick_sort(T arr[], const int len) {
 
 递归法
 
+```
 template <typename T>
 void quick_sort_recursive(T arr[], int start, int end) {
     if (start >= end)
@@ -120,6 +121,7 @@ template <typename T> //整數或浮點數皆可使用,若要使用物件(class)
 void quick_sort(T arr[], int len) {
     quick_sort_recursive(arr, 0, len - 1);
 }
+```
 
 ## 选择排序
 
