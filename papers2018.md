@@ -12,5 +12,8 @@
 - [ ] Towards High Performance Video Object Detection for Mobiles.
 - [ ] Robust Physical Adversarial Attack on Faster R-CNN Object Detector.
 - [ ] Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy.
-- [ ] Select, Attend, and Transfer: Light, Learnable Skip Connections
-- [ ] Road Segmentation Using CNN with GRU
+- [ ] Select, Attend, and Transfer: Light, Learnable Skip Connections.
+- [ ] Road Segmentation Using CNN with GRU.
+- [ ] Deep Face Recognition: A Survey.
+- [ ] SFace: An Efficient Network for Face Detection in Large Scale Variations.
+- [ ] Falling Things: A Synthetic Dataset for 3D Object Detection and Pose Estimation.
