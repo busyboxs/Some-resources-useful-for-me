@@ -17,3 +17,8 @@
 - [ ] Deep Face Recognition: A Survey.
 - [ ] SFace: An Efficient Network for Face Detection in Large Scale Variations.
 - [ ] Falling Things: A Synthetic Dataset for 3D Object Detection and Pose Estimation.
+- [ ] ECO: Efficient Convolutional Network for Online Video Understanding.
+- [ ] An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches.
+- [ ] MVTec D2S: Densely Segmented Supermarket Dataset.
+- [ ] Fully Convolutional Adaptation Networks for Semantic Segmentation.
+- [ ] Rethinking the Faster R-CNN Architecture for Temporal Action Localization.
