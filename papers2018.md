@@ -22,3 +22,5 @@
 - [ ] MVTec D2S: Densely Segmented Supermarket Dataset.
 - [ ] Fully Convolutional Adaptation Networks for Semantic Segmentation.
 - [ ] Rethinking the Faster R-CNN Architecture for Temporal Action Localization.
+- [ ] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection.
+- [ ] Visual Object Tracking: The Initialisation Problem.
