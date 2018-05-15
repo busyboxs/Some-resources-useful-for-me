@@ -24,3 +24,6 @@
 - [ ] Rethinking the Faster R-CNN Architecture for Temporal Action Localization.
 - [ ] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection.
 - [ ] Visual Object Tracking: The Initialisation Problem.
+- [ ] BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
+- [ ] ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
+- [ ] Boosting up Scene Text Detectors with Guided CNN
