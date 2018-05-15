@@ -2,19 +2,22 @@
 
 ## Anaconda 安装
 ```
-bash /home/yangshun/Anaconda2-5.1.0-Linux-x86_64.sh
+bash ~/Anaconda2-5.1.0-Linux-x86_64.sh
 ```
 ## Caffe 依赖库
 ```
 #（**caffe**: ImportError: No module named google.protobuf.internal）
 pip install protobuf 
+
 # (**caffe**: ImportError: No module named easydict)
 pip install easydict 
+
+# copy ~/opencv/build/lib/cv2.so to ~/anaconda2/lib/python2.7/site-packages
 ```
 
 ## Caffe2 conda 安装
 
-为了使得caffe2安装后，caffe或者py-faster-rcnn还能够正常编译，需要将caffe2中`/home/yangshun/caffe2/caffe/proto/caffe.proto`替换为py-faster-rcnn中的**caffe.proto**(主要区别在于添加了`SmoothL1LossParameter`和`ROIPoolingParameter`)，然后在进行编译，安装。
+为了使得caffe2安装后，caffe或者py-faster-rcnn还能够正常编译，需要将caffe2中`~/caffe2/caffe/proto/caffe.proto`替换为py-faster-rcnn中的**caffe.proto**(主要区别在于添加了`SmoothL1LossParameter`和`ROIPoolingParameter`)，然后在进行编译，安装。
 
 ```
 CONDA_INSTALL_LOCALLY=1 BUILD_ENVIRONMENT=-cuda- ./scripts/build_anaconda.sh
