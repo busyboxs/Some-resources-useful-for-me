@@ -17,5 +17,16 @@ pip install easydict
 CONDA_INSTALL_LOCALLY=1 BUILD_ENVIRONMENT=-cuda- ./scripts/build_anaconda.sh
 ```
     
-      
+## COCOAPI install
+
+```
+# COCOAPI=/path/to/clone/cocoapi
+git clone https://github.com/cocodataset/cocoapi.git $COCOAPI
+cd $COCOAPI/PythonAPI
+# Install into global site-packages
+make install
+# Alternatively, if you do not have permissions or prefer
+# not to install the COCO API into global site-packages
+python2 setup.py install --user
+```
  
