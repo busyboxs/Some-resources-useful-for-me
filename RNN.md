@@ -18,7 +18,7 @@
 ### introduction to NLP and Deep Learning 
 
 - [x] [Linear Algebra Review](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)
-- [ ] [Probability Review](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)
+- [x] [Probability Review](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)
 - [ ] [Convex Optimization Review](http://web.stanford.edu/class/cs224n/readings/cs229-cvxopt.pdf)
 - [ ] [More Optimization (SGD) Review](http://cs231n.github.io/optimization-1/)
 
