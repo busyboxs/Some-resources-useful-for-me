@@ -17,4 +17,8 @@
 ## Xgboost
 
 - [ ] [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db?spm=5176.9876270.0.0.2f172ef10Rz9hu)
+- [ ] [CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
+- [ ] [从ctr预估问题看看f(x)设计—DNN篇](https://zhuanlan.zhihu.com/p/28202287?spm=5176.9876270.0.0.2f172ef10Rz9hu)
+- [ ] [Kaggle实战——点击率预估](https://zhuanlan.zhihu.com/p/32500652?spm=5176.9876270.0.0.2f172ef10Rz9hu)
+- [ ] [
 
