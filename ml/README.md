@@ -14,3 +14,7 @@
 - [x] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 - [ ] [Machine Learning Techniques. Lecture 11: Gradient Boosted Decision Tree](https://www.csie.ntu.edu.tw/~htlin/mooc/doc/211_handout.pdf)
 
+## Xgboost
+
+- [ ] [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db?spm=5176.9876270.0.0.2f172ef10Rz9hu)
+
