@@ -27,3 +27,12 @@
 - [ ] BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
 - [ ] ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
 - [ ] Boosting up Scene Text Detectors with Guided CNN
+
+----
+5.21
+
+- [ ] The EuroCity Persons Dataset: A Novel Benchmark for Object Detection
+- [ ] Scene Understanding Networks for Autonomous Driving based on Around View Monitoring System
+- [ ] MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects
+- [ ] Convolutional Social Pooling for Vehicle Trajectory Prediction
+- [ ] Object detection at 200 Frames Per Second
