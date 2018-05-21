@@ -20,5 +20,5 @@
 - [ ] [CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
 - [ ] [从ctr预估问题看看f(x)设计—DNN篇](https://zhuanlan.zhihu.com/p/28202287?spm=5176.9876270.0.0.2f172ef10Rz9hu)
 - [ ] [Kaggle实战——点击率预估](https://zhuanlan.zhihu.com/p/32500652?spm=5176.9876270.0.0.2f172ef10Rz9hu)
-- [ ] [
+- [ ] [因子机深入解析](https://tracholar.github.io/machine-learning/2017/03/10/factorization-machine.html)
 
