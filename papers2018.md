@@ -27,12 +27,33 @@
 - [ ] BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
 - [ ] ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
 - [ ] Boosting up Scene Text Detectors with Guided CNN
-
-----
-5.21
-
 - [ ] The EuroCity Persons Dataset: A Novel Benchmark for Object Detection
 - [ ] Scene Understanding Networks for Autonomous Driving based on Around View Monitoring System
 - [ ] MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects
 - [ ] Convolutional Social Pooling for Vehicle Trajectory Prediction
 - [ ] Object detection at 200 Frames Per Second
+- [ ] Image-to-image translation for cross-domain disentanglement
+- [ ] You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery
+- [ ] AutoAugment: Learning Augmentation Policies from Data
+- [ ] Implicit Language Model in LSTM for OCR
+- [ ] Classifying Cooking Object’s State using a Tuned VGG Convolutional Neural Network
+- [ ] Cautious Deep Learning
+- [ ] Do Better ImageNet Models Transfer Better?
+- [ ] Neural Network Interpretation via Fine Grained Textual Summarization
+- [ ] A Convolutional Feature Map based Deep Network targeted towards Traffic Detection and Classification
+- [ ] A Simple Cache Model for Image Recognition
+- [ ] Evaluating ResNeXt Model Architecture for Image Classification
+- [ ] Image Based Fashion Product Recommendation with Deep Learning
+- [ ] Fused Deep Neural Networks for Efficient Pedestrian Detection
+- [ ] AESTHETICS ASSESSMENT OF IMAGES CONTAINING FACES
+- [ ] OmniDetector: With Neural Networks to Bounding Boxes
+- [ ] Mobile Face Tracking: A Survey and Benchmark
+- [ ] Knowledge-based Fully Convolutional Network and Its Application in Segmentation of Lung CT Images
+- [ ] Pose-Based Two-Stream Relational Networks for Action Recognition in Videos
+- [ ] Enriched Long-term Recurrent Convolutional Network for Facial Micro-Expression Recognition
+- [ ] Training Convolutional Networks with Web Images
+- [ ] Learning Markov Clustering Networks for Scene Text Detection
+- [ ] Joint Image Captioning and Question Answering
+- [ ] VideoCapsuleNet: A Simplified Network for Action Detection
+- [ ] Object Detection in Equirectangular Panorama
+- [ ] Stereo Magnification: Learning view synthesis using multiplane images
