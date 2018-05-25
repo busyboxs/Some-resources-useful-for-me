@@ -24,7 +24,8 @@
 
 ### Word Vectors
 
-- [ ] [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [x] [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [ ] [Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
 - [ ] [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - [ ] [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
 - [ ] [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/pubs/glove.pdf)
