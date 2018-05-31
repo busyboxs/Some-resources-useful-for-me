@@ -57,3 +57,9 @@
 - [ ] VideoCapsuleNet: A Simplified Network for Action Detection
 - [ ] Object Detection in Equirectangular Panorama
 - [ ] Stereo Magnification: Learning view synthesis using multiplane images
+
+----
+
+- [ ] Context-aware Cascade Attention-based RNN for Video Emotion Recognition
+- [ ] CuisineNet: Food Attributes Classification using Multi-scale Convolution Network
+- [ ] Multi-function Convolutional Neural Networks for Improving Image Classification Performance
