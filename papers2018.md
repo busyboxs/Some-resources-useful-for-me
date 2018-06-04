@@ -1,5 +1,19 @@
 # Papers to read
 
+## CVPR 2018 object detection
+
+- [ ] Single-Shot Refinement Neural Network for Object Detection.
+- [ ] Single-Shot Object Detection with Enriched Semantics.
+- [ ] Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy.
+- [ ] An Analysis of Scale Invariance in Object Detection – SNIP.
+- [ ] Pseudo Mask Augmented Object Detection.
+- [x] Feature Selective Networks for Object Detection.
+- [ ] Cascade R-CNN: Delving into High Quality Object Detection.
+
+----
+
+## others
+
 - [ ] STAIR Actions: A Video Dataset of Everyday Home Actions.
 - [ ] A Large-scale Attribute Dataset for Zero-shot Learning.
 - [ ] Deep Differential Recurrent Neural Networks.
