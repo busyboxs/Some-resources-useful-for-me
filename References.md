@@ -31,8 +31,6 @@
 8. Inside-Outside Net:Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks.
 9. Object Detection via Aspect Ratio and Context Aware Region-based Convolutional Networks
 
-
-
 ## The role of context has been well exploited in recognition and detection
 
 1. Discriminative models for multi-class object layout.(2011)
