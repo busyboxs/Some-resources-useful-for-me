@@ -24,6 +24,13 @@
 1. A MultiPath Network for Object Detection.[[arXiv](https://arxiv.org/abs/1604.02135)]
 2. Crafting GBD-Net for Object Detection.[[arXiv](https://arxiv.org/abs/1610.02579)]
 3. Object detection via a multi-region & semantic segmentation-aware CNN model.[[arXiv](https://arxiv.org/abs/1505.01749)]
+4. Attentive Contexts for Object Detection.
+5. Cascade Region Proposal and Global Context for Deep Object Detection.
+6. CMS-RCNN:Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection.
+7. FHEDN:A based on context modeling Feature Hierarchy Encoder-Decoder Network for face detection
+8. Inside-Outside Net:Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks.
+9. Object Detection via Aspect Ratio and Context Aware Region-based Convolutional Networks
+
 
 
 ## The role of context has been well exploited in recognition and detection
