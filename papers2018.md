@@ -81,3 +81,7 @@ July
 
 - [ ] A Single Shot Text Detector with Scale-adaptive Anchors.
 - [ ] LaneNet: Real-Time Lane Detection Networks for Autonomous Driving.
+- [ ] Auto-Context R-CNN.
+- [ ] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping.
+- [ ] Pooling Pyramid Network for Object Detection.
+- [ ] PCL: Proposal Cluster Learning for Weakly Supervised Object Detection.
