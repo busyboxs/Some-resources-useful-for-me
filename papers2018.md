@@ -85,3 +85,13 @@ July
 - [ ] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping.
 - [ ] Pooling Pyramid Network for Object Detection.
 - [ ] PCL: Proposal Cluster Learning for Weakly Supervised Object Detection.
+
+----
+
+October
+
+- [ ] DropBlock: A regularization method for convolutional networks | [paper](https://arxiv.org/pdf/1810.12890.pdf)
+- [ ] Neural Nearest Neighbors Networks | [paper](https://arxiv.org/pdf/1810.12575.pdf)
+- [ ] Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1810.12348.pdf)
+- [ ] Reinforcement Learning and Deep Learning based Lateral Control for Autonomous Driving | [paper](https://arxiv.org/pdf/1810.12778.pdf)
+- [ ] ActionXPose: A Novel 2D Multi-view Pose-based Algorithm for Real-time Human Action Recognition | [paper](https://arxiv.org/pdf/1810.12126.pdf)
