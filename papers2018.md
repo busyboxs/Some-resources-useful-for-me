@@ -95,3 +95,21 @@ October
 - [ ] Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1810.12348.pdf)
 - [ ] Reinforcement Learning and Deep Learning based Lateral Control for Autonomous Driving | [paper](https://arxiv.org/pdf/1810.12778.pdf)
 - [ ] ActionXPose: A Novel 2D Multi-view Pose-based Algorithm for Real-time Human Action Recognition | [paper](https://arxiv.org/pdf/1810.12126.pdf)
+
+----
+
+November
+
+- [ ] The Open Images Dataset V4 Unified image classification, object detection, and visual relationship detection at scale | [paper](https://arxiv.org/pdf/1811.00982.pdf)
+- [ ] Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition | [paper](https://arxiv.org/pdf/1811.00751.pdf)
+- [ ] SDC-Net: Video prediction using spatially-displaced convolution | [paper](https://arxiv.org/pdf/1811.00684.pdf)
+- [ ] Introduction to the 1st Place Winning Model of OpenImages Relationship Detection Challenge | [paper](https://arxiv.org/pdf/1811.00662.pdf)
+- [ ] Invertible Residual Networks | [paper](https://arxiv.org/pdf/1811.00995.pdf)
+- [ ] Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering | [paper](https://arxiv.org/pdf/1811.00538.pdf)
+- [ ] CariGAN: Caricature Generation through Weakly Paired Adversarial Learning | [paper](https://arxiv.org/pdf/1811.00445.pdf)
+- [ ] Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos | [paper](https://arxiv.org/pdf/1811.00342.pdf)
+- [ ] Survey on Vision-based Path Prediction | [paper](https://arxiv.org/abs/1811.00233)
+- [ ] CariGANs: Unpaired Photo-to-Caricature Translation | [paper](https://arxiv.org/pdf/1811.00222.pdf)
+- [ ] Attention-aware Generalized Mean Pooling for Image Retrieval | [paper](https://arxiv.org/pdf/1811.00202.pdf)
+- [ ] Face Recognition: From Traditional to Deep Learning Methods | [paper](https://arxiv.org/pdf/1811.00116.pdf)
+- [ ] Generating Photo-Realistic Training Data to Improve Face Recognition Accuracy | [paper](https://arxiv.org/pdf/1811.00112.pdf)
