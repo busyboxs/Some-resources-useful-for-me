@@ -22,3 +22,7 @@
 - [ ] [Kaggle实战——点击率预估](https://zhuanlan.zhihu.com/p/32500652?spm=5176.9876270.0.0.2f172ef10Rz9hu)
 - [ ] [因子机深入解析](https://tracholar.github.io/machine-learning/2017/03/10/factorization-machine.html)
 
+## Sigmoid
+
+- [x] [机器学习--Logistic回归计算过程的推导](https://blog.csdn.net/ligang_csdn/article/details/53838743)
+
