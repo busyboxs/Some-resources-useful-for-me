@@ -6,6 +6,7 @@
 * [List of Must — Read Free Data Science Books](https://towardsdatascience.com/list-of-must-read-free-data-science-books-bfae4c5c5a16)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [machine learning-101](https://medium.com/machine-learning-101)
+* [Deep Math Machine learning.ai](https://medium.com/deep-math-machine-learning-ai)
 
 
 ## Gradient Boosting
@@ -33,3 +34,4 @@
 
 - [x] [支持向量机通俗导论（理解SVM的三层境界）](https://blog.csdn.net/v_JULY_v/article/details/7624837)
 - [x] [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+- [x] [Chapter 3: Support Vector machine with Math.](https://medium.com/deep-math-machine-learning-ai/chapter-3-support-vector-machine-with-math-47d6193c82be)
