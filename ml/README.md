@@ -12,6 +12,7 @@
 - [x] [Gradient Boosting 簡介](https://medium.com/@cwchang/gradient-boosting-%E7%B0%A1%E4%BB%8B-f3a578ae7205)
 - [x] [A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 - [x] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+- [ ] [Gradient Boosting Explained](https://gormanalysis.com/gradient-boosting-explained/)
 - [ ] [Machine Learning Techniques. Lecture 11: Gradient Boosted Decision Tree](https://www.csie.ntu.edu.tw/~htlin/mooc/doc/211_handout.pdf)
 
 ## Xgboost
@@ -25,6 +26,7 @@
 ## Sigmoid
 
 - [x] [机器学习--Logistic回归计算过程的推导](https://blog.csdn.net/ligang_csdn/article/details/53838743)
+- [x] [Logistic Regression Fundamentals](https://gormanalysis.com/logistic-regression-fundamentals/)
 
 ## SVM
 
