@@ -26,3 +26,7 @@
 
 - [x] [机器学习--Logistic回归计算过程的推导](https://blog.csdn.net/ligang_csdn/article/details/53838743)
 
+## SVM
+
+- [x] [支持向量机通俗导论（理解SVM的三层境界）](https://blog.csdn.net/v_JULY_v/article/details/7624837)
+
