@@ -113,3 +113,4 @@ November
 - [ ] Attention-aware Generalized Mean Pooling for Image Retrieval | [paper](https://arxiv.org/pdf/1811.00202.pdf)
 - [ ] Face Recognition: From Traditional to Deep Learning Methods | [paper](https://arxiv.org/pdf/1811.00116.pdf)
 - [ ] Generating Photo-Realistic Training Data to Improve Face Recognition Accuracy | [paper](https://arxiv.org/pdf/1811.00112.pdf)
+- [ ] Evolvement Constrained Adversarial Learning for Video Style Transfer | [paper](https://arxiv.org/pdf/1811.02476.pdf)
