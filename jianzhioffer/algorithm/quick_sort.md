@@ -1,6 +1,6 @@
 # 快速排序
 
-[online ide test here]https://ide.geeksforgeeks.org/haPPNbhU0L)
+[online ide test here](https://ide.geeksforgeeks.org/haPPNbhU0L)
 
 ```cpp
 #include <iostream>
