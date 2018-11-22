@@ -29,6 +29,12 @@
 - [ ] An Infinite Parade of Giraffes: Expressive Augmentation and Complexity Layers for Cartoon Drawing | [paper](https://arxiv.org/pdf/1811.07023.pdf)
 - [ ] DeRPN: Taking a further step toward more general object detection | [paper](https://arxiv.org/pdf/1811.06700.pdf)
 - [ ] Detecting The Objects on The Road Using Modular Lightweight Network | [paper](https://arxiv.org/pdf/1811.06641.pdf)
+- [ ] Rethinking ImageNet Pre-training | [paper](https://arxiv.org/pdf/1811.08883.pdf)
+- [ ] A Novel Integrated Framework for Learning both Text Detection and Recognition | [paper](https://arxiv.org/pdf/1811.08728.pdf) | [code](https://github.com/chwilms/AttentionMask)
+- [ ] A Novel Integrated Framework for Learning both Text Detection and Recognition | [paper](https://arxiv.org/pdf/1811.08611.pdf)
+- [ ] Scene Text Detection with Supervised Pyramid Context Network | [paper](https://arxiv.org/pdf/1811.08605.pdf)
+- [ ] M2E-Try On Net: Fashion from Model to Everyone | [paper](https://arxiv.org/pdf/1811.08599.pdf)
+- [ ] Adjustable Real-time Style Transfer | [paper](https://arxiv.org/pdf/1811.08560.pdf)
 
 ## CVPR 2018 object detection
 
