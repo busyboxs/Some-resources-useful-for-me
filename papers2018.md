@@ -2,6 +2,12 @@
 
 ## update
 
+- [ ] Mask R-CNN with Pyramid Attention Network for Scene Text Detection | [paper](https://arxiv.org/pdf/1811.09058.pdf)
+- [ ] Super Diffusion for Salient Object Detection | [paper](https://arxiv.org/pdf/1811.09038.pdf)
+- [ ] Polarity Loss for Zero-shot Object Detection | [paper](https://arxiv.org/pdf/1811.08982.pdf)
+- [ ] Low-Resolution Face Recognition | [paper](https://arxiv.org/pdf/1811.08965.pdf) | [code](https://qmul-tinyface.github.io/)
+
+----
 
 - [ ] A Baseline for Multi-Label Image Classification Using Ensemble Deep CNN | [paper](https://arxiv.org/pdf/1811.08412.pdf)
 - [ ] Deep Convolutional Neural Network for Plant Seedlings Classification | [paper](https://arxiv.org/pdf/1811.08404.pdf)
