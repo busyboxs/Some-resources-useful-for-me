@@ -2,11 +2,12 @@
 
 ## update
 
-- [ ] MobiFace: A Lightweight Deep Learning | [paper](https://arxiv.org/pdf/1811.11080.pdf)
+- [ ] MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices | [paper](https://arxiv.org/pdf/1811.11080.pdf)
 - [ ] Mask R-CNN with Pyramid Attention Network for Scene Text Detection | [paper](https://arxiv.org/pdf/1811.09058.pdf)
 - [ ] Super Diffusion for Salient Object Detection | [paper](https://arxiv.org/pdf/1811.09038.pdf)
 - [ ] Polarity Loss for Zero-shot Object Detection | [paper](https://arxiv.org/pdf/1811.08982.pdf)
-- [ ] Low-Resolution Face Recognition | [paper](https://arxiv.org/pdf/1811.08965.pdf) | [code](https://qmul-tinyface.github.io/)
+- [ ] Low-Resolution Face Recognition Face Recognition on Mobile
+Devices | [paper](https://arxiv.org/pdf/1811.08965.pdf) | [code](https://qmul-tinyface.github.io/)
 
 ----
 
