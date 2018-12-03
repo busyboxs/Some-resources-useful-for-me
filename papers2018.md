@@ -2,6 +2,13 @@
 
 ## update
 
+- [ ] TextMountain: Accurate Scene Text Detection via Instance Segmentation | [paper](https://arxiv.org/pdf/1811.12786.pdf)
+- [ ] A Framework for Fast and Efficient Neural Network Compression | [paper](https://arxiv.org/pdf/1811.12781.pdf)
+- [ ] Style Decomposition for Improved Neural Style Transfer | [paper](https://arxiv.org/pdf/1811.12704.pdf)
+- [ ] Transferable Adversarial Attacks for Image and Video Object Detection | [paper](https://arxiv.org/pdf/1811.12641.pdf)
+
+----
+
 - [ ] CCNet: Criss-Cross Attention for Semantic Segmentation | [paper](https://arxiv.org/pdf/1811.11721.pdf) | [code](https://github.com/speedinghzl/CCNet)
 - [ ] Partial Convolution based Padding | [paper](https://arxiv.org/pdf/1811.11718.pdf) | [code](https://github.com/NVIDIA/partialconv)
 - [ ] Robust Face Detection via Learning Small Faces on Hard Images | [paper](https://arxiv.org/pdf/1811.11662.pdf) | [code](https://github.com/bairdzhang/smallhardface)
@@ -13,9 +20,6 @@
 - [ ] Skin lesion segmentation using a U-Net and good training strategies | [paper](https://arxiv.org/pdf/1811.11314.pdf)
 - [ ] ShelfNet for Real-time Semantic Segmentation | [paper](https://arxiv.org/pdf/1811.11254.pdf) | [code](https://github.com/juntang-zhuang/ShelfNet)
 - [ ] CT organ segmentation using GPU data augmentation, unsupervised labels and IOU loss | [paper](https://arxiv.org/pdf/1811.11226.pdf)
-
-----
-
 - [ ] MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices | [paper](https://arxiv.org/pdf/1811.11080.pdf)
 - [ ] Mask R-CNN with Pyramid Attention Network for Scene Text Detection | [paper](https://arxiv.org/pdf/1811.09058.pdf)
 - [ ] Super Diffusion for Salient Object Detection | [paper](https://arxiv.org/pdf/1811.09038.pdf)
