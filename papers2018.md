@@ -2,6 +2,15 @@
 
 ## update
 
+- [ ] Knowledge Distillation with Feature Maps for Image Classification | [paper](https://arxiv.org/pdf/1812.00660.pdf)
+- [ ] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection | [paper](https://arxiv.org/pdf/1812.00124.pdf)
+- [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
+- [ ] AUTOMATED SEGMENTAITON AND CLASSIFICATION OF ARTERIOLES AND VENULES USING CASCADING DILATED CONVOLUTIONAL NEURAL NETWORKS | [paper](https://arxiv.org/pdf/1812.00137.pdf)
+- [ ] HUMBI 1.0: HUman Multiview Behavioral Imaging Dataset | [paper](https://arxiv.org/pdf/1812.00281.pdf)
+- [ ] Classifying a specific image region using convolutional nets with an ROI mask as input | [paper](https://arxiv.org/ftp/arxiv/papers/1812/1812.00291.pdf)
+- [ ] MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation | [paper](https://arxiv.org/pdf/1812.00352.pdf)
+- [ ] Pedestrian Detection with Autoregressive Network Phases | [paper](https://arxiv.org/pdf/1812.00440.pdf)
+- [ ] Anchor Box Optimization for Object Detection | [paper](https://arxiv.org/pdf/1812.00469.pdf)
 - [ ] TextMountain: Accurate Scene Text Detection via Instance Segmentation | [paper](https://arxiv.org/pdf/1811.12786.pdf)
 - [ ] A Framework for Fast and Efficient Neural Network Compression | [paper](https://arxiv.org/pdf/1811.12781.pdf)
 - [ ] Style Decomposition for Improved Neural Style Transfer | [paper](https://arxiv.org/pdf/1811.12704.pdf)
