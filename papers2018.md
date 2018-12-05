@@ -2,6 +2,9 @@
 
 ## update
 
+- [ ] TextField: Learning A Deep Direction Field for Irregular Scene Text Detection | [paper](https://arxiv.org/pdf/1812.01393.pdf)
+- [ ] A Face-to-Face Neural Conversation Model | [paper](https://arxiv.org/pdf/1812.01525.pdf)
+- [ ] AutoFocus: Efficient Multi-Scale Inference | [paper](https://arxiv.org/pdf/1812.01600.pdf)
 - [ ] Knowledge Distillation with Feature Maps for Image Classification | [paper](https://arxiv.org/pdf/1812.00660.pdf)
 - [ ] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection | [paper](https://arxiv.org/pdf/1812.00124.pdf)
 - [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
