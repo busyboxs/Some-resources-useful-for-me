@@ -2,6 +2,15 @@
 
 ## update
 
+- [ ] Multiview Cross-supervision for Semantic Segmentation | [paper](https://arxiv.org/pdf/1812.01738.pdf)
+- [ ] Complete the Look: Scene-based Complementary Product Recommendation | [paper](Complete the Look: Scene-based Complementary Product Recommendation)
+- [ ] Visual Attention for Behavioral Cloning in Autonomous Driving | [paper](https://arxiv.org/pdf/1812.01802.pdf)
+- [ ] Few-shot Object Detection via Feature Reweighting | [paper](https://arxiv.org/pdf/1812.01866.pdf)
+- [ ] Interactive Full Image Segmentation | [paper](https://arxiv.org/pdf/1812.01888.pdf)
+- [ ] An empirical study towards understanding how deep convolutional nets recognize falls | [paper](https://arxiv.org/pdf/1812.01923.pdf)
+- [ ] Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment | [paper](https://arxiv.org/pdf/1812.01936.pdf)
+- [ ] End-to-end Segmentation with Recurrent Attention Neural Network | [paper](https://arxiv.org/pdf/1812.02068.pdf)
+- [ ] Learning Attraction Field Representation for Robust Line Segment Detection | [paper](https://arxiv.org/pdf/1812.02122.pdf)
 - [ ] TextField: Learning A Deep Direction Field for Irregular Scene Text Detection | [paper](https://arxiv.org/pdf/1812.01393.pdf)
 - [ ] A Face-to-Face Neural Conversation Model | [paper](https://arxiv.org/pdf/1812.01525.pdf)
 - [ ] AutoFocus: Efficient Multi-Scale Inference | [paper](https://arxiv.org/pdf/1812.01600.pdf)
