@@ -2,6 +2,9 @@
 
 ## update
 
+- [ ] Meta-Transfer Learning for Few-Shot Learning | [paper](https://arxiv.org/pdf/1812.02391.pdf)
+- [ ] ADAPTIVE SCENARIO DISCOVERY FOR CROWD COUNTING | [paper](https://arxiv.org/pdf/1812.02393.pdf)
+- [ ] OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation | [paper](https://arxiv.org/pdf/1812.02611.pdf)
 - [ ] Multiview Cross-supervision for Semantic Segmentation | [paper](https://arxiv.org/pdf/1812.01738.pdf)
 - [ ] Complete the Look: Scene-based Complementary Product Recommendation | [paper](Complete the Look: Scene-based Complementary Product Recommendation)
 - [ ] Visual Attention for Behavioral Cloning in Autonomous Driving | [paper](https://arxiv.org/pdf/1812.01802.pdf)
