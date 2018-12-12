@@ -2,6 +2,16 @@
 
 ## update
 
+- [ ] Facial Expression Recognition using Facial Landmark Detection and Feature Extraction on Neural Networks | [paper](https://arxiv.org/abs/1812.04510)
+- [ ] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud | [paper](https://arxiv.org/pdf/1812.04244.pdf)
+- [ ] Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification | [paper](https://arxiv.org/pdf/1812.04239.pdf)
+- [ ] Identity-Enhanced Network for Facial Expression Recognition | [paper](https://arxiv.org/pdf/1812.04207.pdf)
+- [ ] Learning Discriminative Motion Features Through Detection | [paper](https://arxiv.org/pdf/1812.04172.pdf)
+- [ ] The Effects of Super-Resolution on Object Detection Performance in Satellite Imagery | [paper](https://arxiv.org/pdf/1812.04098.pdf)
+- [ ] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | [paper](https://arxiv.org/pdf/1812.04072.pdf)
+
+----
+
 - [ ] Meta-Transfer Learning for Few-Shot Learning | [paper](https://arxiv.org/pdf/1812.02391.pdf)
 - [ ] ADAPTIVE SCENARIO DISCOVERY FOR CROWD COUNTING | [paper](https://arxiv.org/pdf/1812.02393.pdf)
 - [ ] OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation | [paper](https://arxiv.org/pdf/1812.02611.pdf)
@@ -30,9 +40,6 @@
 - [ ] A Framework for Fast and Efficient Neural Network Compression | [paper](https://arxiv.org/pdf/1811.12781.pdf)
 - [ ] Style Decomposition for Improved Neural Style Transfer | [paper](https://arxiv.org/pdf/1811.12704.pdf)
 - [ ] Transferable Adversarial Attacks for Image and Video Object Detection | [paper](https://arxiv.org/pdf/1811.12641.pdf)
-
-----
-
 - [ ] CCNet: Criss-Cross Attention for Semantic Segmentation | [paper](https://arxiv.org/pdf/1811.11721.pdf) | [code](https://github.com/speedinghzl/CCNet)
 - [ ] Partial Convolution based Padding | [paper](https://arxiv.org/pdf/1811.11718.pdf) | [code](https://github.com/NVIDIA/partialconv)
 - [ ] Robust Face Detection via Learning Small Faces on Hard Images | [paper](https://arxiv.org/pdf/1811.11662.pdf) | [code](https://github.com/bairdzhang/smallhardface)
