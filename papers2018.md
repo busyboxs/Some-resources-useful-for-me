@@ -2,6 +2,12 @@
 
 ## update
 
+- [ ] Strong-Weak Distribution Alignment for Adaptive Object Detection | [paper](https://arxiv.org/pdf/1812.04798.pdf)
+- [ ] Fast Online Object Tracking and Segmentation: A Unifying Approach | [paper](https://arxiv.org/pdf/1812.05050.pdf)
+- [ ] CFUN: Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation | [paper](https://arxiv.org/pdf/1812.04914.pdf)
+- [ ] IPOD: Intensive Point-based Object Detector for Point Cloud | [paper](https://arxiv.org/pdf/1812.05276.pdf)
+- [ ] MetaStyle: Three-Way Trade-Off Among Speed, Flexibility, and Quality in Neural Style Transfer | [paper](https://arxiv.org/pdf/1812.05233.pdf)
+- [ ] FA-RPN: Floating Region Proposals for Face Detection | [paper](https://arxiv.org/pdf/1812.05586.pdf)
 - [ ] Facial Expression Recognition using Facial Landmark Detection and Feature Extraction on Neural Networks | [paper](https://arxiv.org/abs/1812.04510)
 - [ ] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud | [paper](https://arxiv.org/pdf/1812.04244.pdf)
 - [ ] Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification | [paper](https://arxiv.org/pdf/1812.04239.pdf)
