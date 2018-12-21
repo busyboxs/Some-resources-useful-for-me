@@ -2,6 +2,19 @@
 
 ## update
 
+- [ ] DeepFakes: a New Threat to Face Recognition? Assessment and Detection | [paper](https://arxiv.org/pdf/1812.08685.pdf)
+- [ ] SFA: Small Faces Attention Face Detector | [paper](https://arxiv.org/pdf/1812.08402.pdf)
+- [ ] Accurate Hand Keypoint Localization on Mobile Devices | [paper](https://arxiv.org/pdf/1812.08028.pdf)
+- [ ] Dynamic Programming Approach to Template-based OCR | [paper](https://arxiv.org/pdf/1812.07933.pdf)
+- [ ] Rotation Ensemble Module for Detecting Rotation-Invariant Features | [paper](https://arxiv.org/pdf/1812.07762.pdf)
+- [ ] Handcrafted and Deep Trackers: A Review of Recent Object Tracking Approaches | [paper](https://arxiv.org/pdf/1812.07368.pdf)
+- [ ] Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking | [paper](https://arxiv.org/pdf/1812.06148.pdf)
+- [ ] End to End Video Segmentation for Driving : Lane Detection For Autonomous Car | [paper](https://arxiv.org/pdf/1812.05914.pdf)
+- [ ] AU R-CNN: Encoding Expert Prior Knowledge into R-CNN for Action Unit Detection | [paper](https://arxiv.org/pdf/1812.05788.pdf)
+- [ ] PointPillars: Fast Encoders for Object Detection from Point Clouds | [paper](https://arxiv.org/pdf/1812.05784.pdf)
+
+----
+
 - [ ] Strong-Weak Distribution Alignment for Adaptive Object Detection | [paper](https://arxiv.org/pdf/1812.04798.pdf)
 - [ ] Fast Online Object Tracking and Segmentation: A Unifying Approach | [paper](https://arxiv.org/pdf/1812.05050.pdf)
 - [ ] CFUN: Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation | [paper](https://arxiv.org/pdf/1812.04914.pdf)
@@ -15,9 +28,6 @@
 - [ ] Learning Discriminative Motion Features Through Detection | [paper](https://arxiv.org/pdf/1812.04172.pdf)
 - [ ] The Effects of Super-Resolution on Object Detection Performance in Satellite Imagery | [paper](https://arxiv.org/pdf/1812.04098.pdf)
 - [ ] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | [paper](https://arxiv.org/pdf/1812.04072.pdf)
-
-----
-
 - [ ] Meta-Transfer Learning for Few-Shot Learning | [paper](https://arxiv.org/pdf/1812.02391.pdf)
 - [ ] ADAPTIVE SCENARIO DISCOVERY FOR CROWD COUNTING | [paper](https://arxiv.org/pdf/1812.02393.pdf)
 - [ ] OMNIA Faster R-CNN: Detection in the wild through dataset merging and soft distillation | [paper](https://arxiv.org/pdf/1812.02611.pdf)
