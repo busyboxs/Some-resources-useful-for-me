@@ -2,6 +2,14 @@
 
 ## jupyter themes
 
+* 终端配置
+
+```bash
+jt -t onedork -fs 11 -nfs 11
+```
+
+* notebook 配置
+
 ```python
 # import jtplot module in notebook
 from jupyterthemes import jtplot
@@ -23,3 +31,9 @@ jtplot.style(ticks=True, grid=False, figsize=(6, 4.5))
 # reset default matplotlib rcParams
 jtplot.reset()
 ```
+
+## 行号显示
+
+在 “查看” 中 “切换行号”
+
+
