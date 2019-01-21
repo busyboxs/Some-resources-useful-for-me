@@ -1,5 +1,9 @@
 # jupyter config
 
+## jupyter notebook can not open browser self
+
+[https://support.anaconda.com/customer/en/portal/articles/2925919-change-default-browser-in-jupyter-notebook](https://support.anaconda.com/customer/en/portal/articles/2925919-change-default-browser-in-jupyter-notebook)
+
 ## jupyter themes
 
 * 终端配置
