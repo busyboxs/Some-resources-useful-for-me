@@ -13,3 +13,10 @@
 |**poweroff**|Shuts down the system by powering off|
 |**reboot**|Reboots the system|
 |**shutdown**|Shuts down the system|
+
+## Terminal short key
+
+* `ctrl + shift + O` : Horizontally
+* `ctrl + shift + E` : Vertivally
+* `ctrl + shift + W` : close Terminal
+* `ctrl + shift + Q` : close Window
