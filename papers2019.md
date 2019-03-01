@@ -1,6 +1,12 @@
 # papers 2019
 
 - [](https://arxiv.org/abs/)
+- [ ] NeurAll: Towards a Unified Model for Visual Perception in Automated Driving [paper](https://arxiv.org/pdf/1902.03589.pdf) |
+- [ ] Monocular Depth Estimation: A Survey | [paper](https://arxiv.org/pdf/1901.09402.pdf)
+- [ ] Optical Flow augmented Semantic Segmentation networks for Automated Driving | [paper](https://arxiv.org/pdf/1901.07355.pdf) |
+- [ ] Design of Real-time Semantic Segmentation Decoder for Automated Driving | [paper](https://arxiv.org/pdf/1901.06580.pdf) |
+- [ ] Embedded CNN based vehicle classification and counting in non-laned road traffic | [paper](https://arxiv.org/pdf/1901.06358.pdf) |
+- [ ] Real-time Joint Object Detection and Semantic Segmentation Network for Automated Driving | [paper](https://arxiv.org/pdf/1901.03912.pdf) |
 
 ## March
 
@@ -28,11 +34,4 @@
 - [ ] SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection | [paper](https://arxiv.org/abs/1902.09080) |
 - [ ] U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument | [paper](https://arxiv.org/abs/1902.08994) |
 - [ ] Facial Motion Prior Networks for Facial Expression Recognition [paper](https://arxiv.org/abs/1902.08788) |
-
-- [ ] NeurAll: Towards a Unified Model for Visual Perception in Automated Driving [paper](https://arxiv.org/pdf/1902.03589.pdf) |
-- [ ] Monocular Depth Estimation: A Survey | [paper](https://arxiv.org/pdf/1901.09402.pdf)
-- [ ] Optical Flow augmented Semantic Segmentation networks for Automated Driving | [paper](https://arxiv.org/pdf/1901.07355.pdf) |
-- [ ] Design of Real-time Semantic Segmentation Decoder for Automated Driving | [paper](https://arxiv.org/pdf/1901.06580.pdf) |
-- [ ] Embedded CNN based vehicle classification and counting in non-laned road traffic | [paper](https://arxiv.org/pdf/1901.06358.pdf) |
-- [ ] Real-time Joint Object Detection and Semantic Segmentation Network for Automated Driving | [paper](https://arxiv.org/pdf/1901.03912.pdf) |
 
