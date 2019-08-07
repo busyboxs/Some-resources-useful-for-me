@@ -9,3 +9,7 @@
 * cuda 下载地址： [https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)
 * cudnn 下载地址： [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)
 * cudnn 安装文档： [https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
+
+## 3. 修改 hosts 后，刷新 DNS
+
+* `sudo /etc/init.d/networking restart`
