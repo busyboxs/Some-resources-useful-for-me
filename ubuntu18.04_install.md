@@ -13,3 +13,12 @@
 ## 3. 修改 hosts 后，刷新 DNS
 
 * `sudo /etc/init.d/networking restart`
+
+## 4. Anaconda 安装
+
+* Anaconda 下载地址： [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
+* Anaconda 安装文档： [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)
+
+## 5. Pycharm 安装
+
+* Pycharm 下载地址： [https://www.jetbrains.com/pycharm/download/#section=linux](https://www.jetbrains.com/pycharm/download/#section=linux)
