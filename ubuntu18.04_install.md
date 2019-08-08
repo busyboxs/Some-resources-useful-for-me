@@ -22,6 +22,7 @@
 ## 5. Pycharm 安装
 
 * Pycharm 下载地址： [https://www.jetbrains.com/pycharm/download/#section=linux](https://www.jetbrains.com/pycharm/download/#section=linux)
+* Pycharm shortcut config: [https://askubuntu.com/questions/391439/how-can-i-set-up-pycharm-to-launch-from-the-launcher](https://askubuntu.com/questions/391439/how-can-i-set-up-pycharm-to-launch-from-the-launcher)
 
 ## 6. OpenCV 安装
 
