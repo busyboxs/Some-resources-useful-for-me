@@ -22,3 +22,8 @@
 ## 5. Pycharm 安装
 
 * Pycharm 下载地址： [https://www.jetbrains.com/pycharm/download/#section=linux](https://www.jetbrains.com/pycharm/download/#section=linux)
+
+## 6. OpenCV 安装
+
+* Opencv 安装文档：[https://docs.opencv.org/4.1.1/d7/d9f/tutorial_linux_install.html](https://docs.opencv.org/4.1.1/d7/d9f/tutorial_linux_install.html)
+* 安装依赖包时出现 `E: Unable to locate package libjasper-dev` 错误，解决方法： [https://stackoverflow.com/questions/43484357/opencv-in-ubuntu-17-04/44488374#44488374](https://stackoverflow.com/questions/43484357/opencv-in-ubuntu-17-04/44488374#44488374)
