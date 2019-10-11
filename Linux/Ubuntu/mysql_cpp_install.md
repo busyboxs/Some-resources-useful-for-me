@@ -140,3 +140,8 @@ ID: 1, Name: Marianne, Score: 89
 ID: 2, Name: Jimmy, Score: 62
 ID: 3, Name: Ling, Score: 78
 ```
+
+## Reference links
+
+* [Ubuntu 18.04 How to Install, Reinstall and Uninstall MySQL](https://blog.softhints.com/install-reinstall-uninstall-mysql-on-ubuntu-16/)
+* [MySQL Installation and Setup for C++ Development on Visual Studio - YouTube](https://www.youtube.com/watch?v=yNniOHn9Xe0&t=602s)
